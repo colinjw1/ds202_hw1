@@ -1,0 +1,25 @@
+---
+title: "Lab 1 Partner Side"
+author: "John King"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Personal Information
+
+John King, Github username: "JMichKing"
+
+## Viewing latest Commit
+
+The Owner committed both hw1.Rmd and hw1.html for the first time. The id for the commit was "368c09e42f1fcb221bdce8027f6d5dadad841199".
+
+## Knitting hw1.Rmd
+
+This could operation could not be completed. This is the error "Error: pandoc document conversion failed with error 99."
+
+## Final Remarks
+
+I ran into trouble accepting the invitation to become a collaborator. The best way to do this seems to be through the email GitHub sends, but I tried to accept the invitation through my phone which wasn't signed in to my GitHub account so it didn't work. This problem was resolved when I did everything from my computer.
